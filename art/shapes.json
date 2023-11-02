@@ -1,0 +1,32 @@
+{
+  "items": [
+    {"name": "Circle", "img": "Placeholder"},
+    {"name": "Square", "img": "Placeholder"},
+    {"name": "Triangle", "img": "Placeholder"},
+    {"name": "Rectangle", "img": "Placeholder"},
+    {"name": "Star", "img": "Placeholder"},
+    {"name": "Heart", "img": "Placeholder"},
+    {"name": "Oval", "img": "Placeholder"},
+    {"name": "Diamond (or Rhombus)", "img": "Placeholder"},
+    {"name": "Pentagon", "img": "Placeholder"},
+    {"name": "Hexagon", "img": "Placeholder"},
+    {"name": "Octagon", "img": "Placeholder"},
+    {"name": "Crescent", "img": "Placeholder"},
+    {"name": "Semi-circle", "img": "Placeholder"},
+    {"name": "Trapezoid", "img": "Placeholder"},
+    {"name": "Parallelogram", "img": "Placeholder"},
+    {"name": "Cube", "img": "Placeholder"},
+    {"name": "Sphere", "img": "Placeholder"},
+    {"name": "Cylinder", "img": "Placeholder"},
+    {"name": "Cone", "img": "Placeholder"},
+    {"name": "Pyramid", "img": "Placeholder"},
+    {"name": "Arrow", "img": "Placeholder"},
+    {"name": "Cross", "img": "Placeholder"},
+    {"name": "Ellipse", "img": "Placeholder"},
+    {"name": "Annulus (Ring)", "img": "Placeholder"},
+    {"name": "Torus (Doughnut shape)", "img": "Placeholder"},
+    {"name": "Spiral", "img": "Placeholder"},
+    {"name": "Helix", "img": "Placeholder"},
+    {"name": "S-curve", "img": "Placeholder"}
+  ]
+}
