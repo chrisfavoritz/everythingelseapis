@@ -1,15 +1,15 @@
 {
-  "items": [
-    {"name": "Early Morning"},
-    {"name": "Morning"},
-    {"name": "Midday"},
-    {"name": "Afternoon"},
-    {"name": "Evening"},
-    {"name": "Dusk"},
-    {"name": "Night"},
-    {"name": "Early Night"},
-    {"name": "Late Night"},
-    {"name": "Midnight"},
-    {"name": "Dawn"}
-  ]
+"items": [
+{"name": "Early Morning", "img": "placeholder"},
+{"name": "Morning", "img": "placeholder"},
+{"name": "Midday", "img": "placeholder"},
+{"name": "Afternoon", "img": "placeholder"},
+{"name": "Evening", "img": "placeholder"},
+{"name": "Dusk", "img": "placeholder"},
+{"name": "Night", "img": "placeholder"},
+{"name": "Early Night", "img": "placeholder"},
+{"name": "Late Night", "img": "placeholder"},
+{"name": "Midnight", "img": "placeholder"},
+{"name": "Dawn", "img": "placeholder"}
+]
 }
