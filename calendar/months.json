@@ -1,0 +1,16 @@
+{
+  "items": [
+    {"name": "January", "img": "Placeholder"},
+    {"name": "February", "img": "Placeholder"},
+    {"name": "March", "img": "Placeholder"},
+    {"name": "April", "img": "Placeholder"},
+    {"name": "May", "img": "Placeholder"},
+    {"name": "June", "img": "Placeholder"},
+    {"name": "July", "img": "Placeholder"},
+    {"name": "August", "img": "Placeholder"},
+    {"name": "September", "img": "Placeholder"},
+    {"name": "October", "img": "Placeholder"},
+    {"name": "November", "img": "Placeholder"},
+    {"name": "December", "img": "Placeholder"}
+  ]
+}
