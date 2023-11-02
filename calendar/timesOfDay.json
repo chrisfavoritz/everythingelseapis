@@ -1,0 +1,15 @@
+{
+  "items": [
+    {"name": "Early Morning"},
+    {"name": "Morning"},
+    {"name": "Midday"},
+    {"name": "Afternoon"},
+    {"name": "Evening"},
+    {"name": "Dusk"},
+    {"name": "Night"},
+    {"name": "Early Night"},
+    {"name": "Late Night"},
+    {"name": "Midnight"},
+    {"name": "Dawn"}
+  ]
+}
