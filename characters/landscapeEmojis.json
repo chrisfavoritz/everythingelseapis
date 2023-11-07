@@ -1,0 +1,13 @@
+{
+"items": [
+{"name": "🏞️ National Park", "img": "https://em-content.zobj.net/source/apple/354/national-park_1f3de-fe0f.png"},
+   {"name": "🌁 Foggy", "img": "https://em-content.zobj.net/source/apple/354/foggy_1f301.png"},
+  {"name": "🌃 Night with Stars", "img": "https://em-content.zobj.net/source/apple/354/night-with-stars_1f303.png"},
+  {"name": "🏙️ Cityscape", "img": "https://em-content.zobj.net/source/apple/354/cityscape_1f3d9-fe0f.png"},
+  {"name": "🌄 Sunrise Over Mountains", "img": "https://em-content.zobj.net/source/apple/354/sunrise-over-mountains_1f304.png"},
+  {"name": "🌅 Sunrise", "img": "https://em-content.zobj.net/source/apple/354/sunrise_1f305.png"},
+  {"name": "🌆 Cityscape at Dusk", "img": "https://em-content.zobj.net/source/apple/354/cityscape-at-dusk_1f306.png"},
+  {"name": "🌇 Sunset", "img": "https://em-content.zobj.net/source/apple/354/sunset_1f307.png"},
+  {"name": "🌉 Bridge at Night", "img": "https://em-content.zobj.net/source/apple/354/bridge-at-night_1f309.png"}
+]
+}
