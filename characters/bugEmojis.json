@@ -1,0 +1,18 @@
+{
+"items": [
+{"name": "🐌 Snail", "img": "https://em-content.zobj.net/source/apple/354/snail_1f40c.png"},
+{"name": "🦋 Butterfly", "img": "https://em-content.zobj.net/source/apple/354/butterfly_1f98b.png"},
+{"name": "🐛 Bug", "img": "https://em-content.zobj.net/source/apple/354/bug_1f41b.png"},
+{"name": "🐜 Ant", "img": "https://em-content.zobj.net/source/apple/354/ant_1f41c.png"},
+{"name": "🐝 Honeybee", "img": "https://em-content.zobj.net/source/apple/354/honeybee_1f41d.png"},
+{"name": "🪲 Beetle", "img": "https://em-content.zobj.net/source/apple/354/beetle_1fab2.png"},
+{"name": "🐞 Lady Beetle", "img": "https://em-content.zobj.net/source/apple/354/lady-beetle_1f41e.png"},
+{"name": "🦗 Cricket", "img": "https://em-content.zobj.net/source/apple/354/cricket_1f997.png"},
+{"name": "🪳 Cockroach", "img": "https://em-content.zobj.net/source/apple/354/cockroach_1fab3.png"},
+{"name": "🕷️ Spider", "img": "https://em-content.zobj.net/source/apple/354/spider_1f577-fe0f.png"},
+{"name": "🦂 Scorpion", "img": "https://em-content.zobj.net/source/apple/354/scorpion_1f982.png"},
+{"name": "🦟 Mosquito", "img": "https://em-content.zobj.net/source/apple/354/mosquito_1f99f.png"},
+{"name": "🪰 Fly", "img": "https://em-content.zobj.net/source/apple/354/fly_1fab0.png"},
+{"name": "🪱 Worm", "img": "https://em-content.zobj.net/source/apple/354/worm_1fab1.png"}
+]
+}
