@@ -1,0 +1,19 @@
+{
+"items": [
+{"name": "🥛 Glass of Milk", "img": "https://em-content.zobj.net/source/apple/354/glass-of-milk_1f95b.png"},
+{"name": "☕ Coffee", "img": "https://em-content.zobj.net/source/apple/354/hot-beverage_2615.png"},
+    {"name": "🫖 Tea", "img": "https://em-content.zobj.net/source/apple/354/teapot_1fad6.png"},
+{"name": "🍵 Green Tea", "img": "https://em-content.zobj.net/source/apple/354/teacup-without-handle_1f375.png"},
+{"name": "🍶 Sake", "img": "https://em-content.zobj.net/source/apple/354/sake_1f376.png"},
+{"name": "🍾 Champagne", "img": "https://em-content.zobj.net/source/apple/354/bottle-with-popping-cork_1f37e.png"},
+{"name": "🍷 Wine", "img": "https://em-content.zobj.net/source/apple/354/wine-glass_1f377.png"},
+{"name": "🍸 Cocktail", "img": "https://em-content.zobj.net/source/apple/354/cocktail-glass_1f378.png"},
+{"name": "🍹 Tropical Drink", "img": "https://em-content.zobj.net/source/apple/354/tropical-drink_1f379.png"},
+{"name": "🍺 Beer", "img": "https://em-content.zobj.net/source/apple/354/beer-mug_1f37a.png"},
+{"name": "🥃 Spirits", "img": "https://em-content.zobj.net/source/apple/354/tumbler-glass_1f943.png"},
+{"name": "🥤 Soft Drink", "img": "https://em-content.zobj.net/source/apple/354/cup-with-straw_1f964.png"},
+  {"name": "🧋 Bubble Tea", "img": "https://em-content.zobj.net/source/apple/354/bubble-tea_1f9cb.png"},
+  {"name": "🧃 Juice Box", "img": "https://em-content.zobj.net/source/apple/354/beverage-box_1f9c3.png"},
+  {"name": "🧉 Mate", "img": "https://em-content.zobj.net/source/apple/354/mate_1f9c9.png"}
+]
+}
