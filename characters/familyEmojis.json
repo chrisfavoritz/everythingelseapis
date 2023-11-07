@@ -1,0 +1,30 @@
+{
+"items": [
+{"name": "👪 Family", "img": "https://em-content.zobj.net/source/apple/354/family_1f46a.png"},
+{"name": "👨‍👩‍👦 Family: Man, Woman, Boy", "img": "https://em-content.zobj.net/source/apple/354/family-man-woman-boy_1f468-200d-1f469-200d-1f466.png"},
+{"name": "👨‍👩‍👧 Family: Man, Woman, Girl", "img": "https://em-content.zobj.net/source/apple/354/family-man-woman-girl_1f468-200d-1f469-200d-1f467.png"},
+{"name": "👨‍👩‍👧‍👦 Family: Man, Woman, Girl, Boy", "img": "https://em-content.zobj.net/source/apple/354/family-man-woman-girl-boy_1f468-200d-1f469-200d-1f467-200d-1f466.png"},
+{"name": "👨‍👩‍👦‍👦 Family: Man, Woman, Boy, Boy", "img": "https://em-content.zobj.net/source/apple/354/family-man-woman-boy-boy_1f468-200d-1f469-200d-1f466-200d-1f466.png"},
+{"name": "👨‍👩‍👧‍👧 Family: Man, Woman, Girl, Girl", "img": "https://em-content.zobj.net/source/apple/354/family-man-woman-girl-girl_1f468-200d-1f469-200d-1f467-200d-1f467.png"},
+{"name": "👨‍👨‍👦 Family: Man, Man, Boy", "img": "https://em-content.zobj.net/source/apple/354/family-man-man-boy_1f468-200d-1f468-200d-1f466.png"},
+{"name": "👨‍👨‍👧 Family: Man, Man, Girl", "img": "https://em-content.zobj.net/source/apple/354/family-man-man-girl_1f468-200d-1f468-200d-1f467.png"},
+{"name": "👨‍👨‍👧‍👦 Family: Man, Man, Girl, Boy", "img": "https://em-content.zobj.net/source/apple/354/family-man-man-girl-boy_1f468-200d-1f468-200d-1f467-200d-1f466.png"},
+{"name": "👨‍👨‍👦‍👦 Family: Man, Man, Boy, Boy", "img": "https://em-content.zobj.net/source/apple/354/family-man-man-boy-boy_1f468-200d-1f468-200d-1f466-200d-1f466.png"},
+{"name": "👨‍👨‍👧‍👧 Family: Man, Man, Girl, Girl", "img": "https://em-content.zobj.net/source/apple/354/family-man-man-girl-girl_1f468-200d-1f468-200d-1f467-200d-1f467.png"},
+{"name": "👩‍👩‍👦 Family: Woman, Woman, Boy", "img": "https://em-content.zobj.net/source/apple/354/family-woman-woman-boy_1f469-200d-1f469-200d-1f466.png"},
+{"name": "👩‍👩‍👧 Family: Woman, Woman, Girl", "img": "https://em-content.zobj.net/source/apple/354/family-woman-woman-girl_1f469-200d-1f469-200d-1f467.png"},
+{"name": "👩‍👩‍👧‍👦 Family: Woman, Woman, Girl, Boy", "img": "https://em-content.zobj.net/source/apple/354/family-woman-woman-girl-boy_1f469-200d-1f469-200d-1f467-200d-1f466.png"},
+{"name": "👩‍👩‍👦‍👦 Family: Woman, Woman, Boy, Boy", "img": "https://em-content.zobj.net/source/apple/354/family-woman-woman-boy-boy_1f469-200d-1f469-200d-1f466-200d-1f466.png"},
+{"name": "👩‍👩‍👧‍👧 Family: Woman, Woman, Girl, Girl", "img": "https://em-content.zobj.net/source/apple/354/family-woman-woman-girl-girl_1f469-200d-1f469-200d-1f467-200d-1f467.png"},
+  {"name": "👨‍👦 Family: Man, Boy", "img": "https://em-content.zobj.net/source/apple/354/family-man-boy_1f468-200d-1f466.png"},
+  {"name": "👨‍👦‍👦 Family: Man, Boy, Boy", "img": "https://em-content.zobj.net/source/apple/354/family-man-boy-boy_1f468-200d-1f466-200d-1f466.png"},
+  {"name": "👨‍👧 Family: Man, Girl", "img": "https://em-content.zobj.net/source/apple/354/family-man-girl_1f468-200d-1f467.png"},
+  {"name": "👨‍👧‍👦 Family: Man, Girl, Boy", "img": "https://em-content.zobj.net/source/apple/354/family-man-girl-boy_1f468-200d-1f467-200d-1f466.png"},
+  {"name": "👨‍👧‍👧 Family: Man, Girl, Girl", "img": "https://em-content.zobj.net/source/apple/354/family-man-girl-girl_1f468-200d-1f467-200d-1f467.png"},
+  {"name": "👩‍👦 Family: Woman, Boy", "img": "https://em-content.zobj.net/source/apple/354/family-woman-boy_1f469-200d-1f466.png"},
+  {"name": "👩‍👦‍👦 Family: Woman, Boy, Boy", "img": "https://em-content.zobj.net/source/apple/354/family-woman-boy-boy_1f469-200d-1f466-200d-1f466.png"},
+  {"name": "👩‍👧 Family: Woman, Girl", "img": "https://em-content.zobj.net/source/apple/354/family-woman-girl_1f469-200d-1f467.png"},
+  {"name": "👩‍👧‍👦 Family: Woman, Girl, Boy", "img": "https://em-content.zobj.net/source/apple/354/family-woman-girl-boy_1f469-200d-1f467-200d-1f466.png"},
+  {"name": "👩‍👧‍👧 Family: Woman, Girl, Girl", "img": "https://em-content.zobj.net/source/apple/354/family-woman-girl-girl_1f469-200d-1f467-200d-1f467.png"}
+]
+}
