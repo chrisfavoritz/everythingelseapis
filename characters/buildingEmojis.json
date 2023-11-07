@@ -1,0 +1,33 @@
+{
+"items": [
+  {"name": "🏟️ Stadium", "img": "https://em-content.zobj.net/source/apple/354/stadium_1f3df-fe0f.png"},
+  {"name": "🏛️ Classical Building", "img": "https://em-content.zobj.net/source/apple/354/classical-building_1f3db-fe0f.png"},
+  {"name": "🛖 Hut", "img": "https://em-content.zobj.net/source/apple/354/hut_1f6d6.png"},
+  {"name": "🏘️ Houses", "img": "https://em-content.zobj.net/source/apple/354/houses_1f3d8-fe0f.png"},
+  {"name": "🏚️ Derelict House", "img": "https://em-content.zobj.net/source/apple/354/derelict-house_1f3da-fe0f.png"},
+  {"name": "🏠 House", "img": "https://em-content.zobj.net/source/apple/354/house_1f3e0.png"},
+  {"name": "🏡 House with Garden", "img": "https://em-content.zobj.net/source/apple/354/house-with-garden_1f3e1.png"},
+  {"name": "🏢 Office Building", "img": "https://em-content.zobj.net/source/apple/354/office-building_1f3e2.png"},
+  {"name": "🏣 Japanese Post Office", "img": "https://em-content.zobj.net/source/apple/354/japanese-post-office_1f3e3.png"},
+  {"name": "🏤 Post Office", "img": "https://em-content.zobj.net/source/apple/354/post-office_1f3e4.png"},
+  {"name": "🏥 Hospital", "img": "https://em-content.zobj.net/source/apple/354/hospital_1f3e5.png"},
+  {"name": "🏦 Bank", "img": "https://em-content.zobj.net/source/apple/354/bank_1f3e6.png"},
+  {"name": "🏨 Hotel", "img": "https://em-content.zobj.net/source/apple/354/hotel_1f3e8.png"},
+  {"name": "🏩 Love Hotel", "img": "https://em-content.zobj.net/source/apple/354/love-hotel_1f3e9.png"},
+  {"name": "🏪 Convenience Store", "img": "https://em-content.zobj.net/source/apple/354/convenience-store_1f3ea.png"},
+  {"name": "🏫 School", "img": "https://em-content.zobj.net/source/apple/354/school_1f3eb.png"},
+  {"name": "🏬 Department Store", "img": "https://em-content.zobj.net/source/apple/354/department-store_1f3ec.png"},
+  {"name": "🏭 Factory", "img": "https://em-content.zobj.net/source/apple/354/factory_1f3ed.png"},
+  {"name": "🏯 Japanese Castle", "img": "https://em-content.zobj.net/source/apple/354/japanese-castle_1f3ef.png"},
+  {"name": "🏰 Castle", "img": "https://em-content.zobj.net/source/apple/354/castle_1f3f0.png"},
+  {"name": "💒 Wedding", "img": "https://em-content.zobj.net/source/apple/354/wedding_1f492.png"},
+  {"name": "🗼 Tokyo Tower", "img": "https://em-content.zobj.net/source/apple/354/tokyo-tower_1f5fc.png"},
+  {"name": "🗽 Statue of Liberty", "img": "https://em-content.zobj.net/source/apple/354/statue-of-liberty_1f5fd.png"},
+  {"name": "⛪ Church", "img": "https://em-content.zobj.net/source/apple/354/church_26ea.png"},
+  {"name": "🕌 Mosque", "img": "https://em-content.zobj.net/source/apple/354/mosque_1f54c.png"},
+  {"name": "🛕 Hindu Temple", "img": "https://em-content.zobj.net/source/apple/354/hindu-temple_1f6d5.png"},
+  {"name": "🕍 Synagogue", "img": "https://em-content.zobj.net/source/apple/354/synagogue_1f54d.png"},
+  {"name": "⛩️ Shinto Shrine", "img": "https://em-content.zobj.net/source/apple/354/shinto-shrine_26e9-fe0f.png"},
+  {"name": "🕋 Kaaba", "img": "https://em-content.zobj.net/source/apple/354/kaaba_1f54b.png"}
+]
+}
