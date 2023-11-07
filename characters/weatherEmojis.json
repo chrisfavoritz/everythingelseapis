@@ -1,0 +1,31 @@
+{
+"items": [
+{"name": "☀️ Sun", "img": "https://em-content.zobj.net/source/apple/354/sun_2600-fe0f.png"},
+{"name": "☁️ Cloud", "img": "https://em-content.zobj.net/source/apple/354/cloud_2601-fe0f.png"},
+{"name": "⛅ Sun Behind Cloud", "img": "https://em-content.zobj.net/source/apple/354/sun-behind-cloud_26c5.png"},
+{"name": "⛈️ Cloud with Lightning and Rain", "img": "https://em-content.zobj.net/source/apple/354/cloud-with-lightning-and-rain_26c8-fe0f.png"},
+{"name": "🌤️ Sun Behind Small Cloud", "img": "https://em-content.zobj.net/source/apple/354/sun-behind-small-cloud_1f324-fe0f.png"},
+{"name": "🌥️ Sun Behind Large Cloud", "img": "https://em-content.zobj.net/source/apple/354/sun-behind-large-cloud_1f325-fe0f.png"},
+{"name": "🌦️ Sun Behind Rain Cloud", "img": "https://em-content.zobj.net/source/apple/354/sun-behind-rain-cloud_1f326-fe0f.png"},
+{"name": "🌧️ Cloud with Rain", "img": "https://em-content.zobj.net/source/apple/354/cloud-with-rain_1f327-fe0f.png"},
+{"name": "🌨️ Cloud with Snow", "img": "https://em-content.zobj.net/source/apple/354/cloud-with-snow_1f328-fe0f.png"},
+{"name": "🌩️ Cloud with Lightning", "img": "https://em-content.zobj.net/source/apple/354/cloud-with-lightning_1f329-fe0f.png"},
+{"name": "🌪️ Tornado", "img": "https://em-content.zobj.net/source/apple/354/tornado_1f32a-fe0f.png"},
+{"name": "🌫️ Fog", "img": "https://em-content.zobj.net/source/apple/354/fog_1f32b-fe0f.png"},
+{"name": "🌬️ Wind Face", "img": "https://em-content.zobj.net/source/apple/354/wind-face_1f32c-fe0f.png"},
+{"name": "🌀 Cyclone", "img": "https://em-content.zobj.net/source/apple/354/cyclone_1f300.png"},
+{"name": "🌈 Rainbow", "img": "https://em-content.zobj.net/source/apple/354/rainbow_1f308.png"},
+{"name": "🌂 Closed Umbrella", "img": "https://em-content.zobj.net/source/apple/354/closed-umbrella_1f302.png"},
+{"name": "☂️ Umbrella", "img": "https://em-content.zobj.net/source/apple/354/umbrella_2602-fe0f.png"},
+{"name": "☔ Umbrella with Rain Drops", "img": "https://em-content.zobj.net/source/apple/354/umbrella-with-rain-drops_2614.png"},
+{"name": "⛱️ Umbrella on Ground", "img": "https://em-content.zobj.net/source/apple/354/umbrella-on-ground_26f1-fe0f.png"},
+{"name": "⚡ High Voltage", "img": "https://em-content.zobj.net/source/apple/354/high-voltage_26a1.png"},
+{"name": "❄️ Snowflake", "img": "https://em-content.zobj.net/source/apple/354/snowflake_2744-fe0f.png"},
+{"name": "☃️ Snowman", "img": "https://em-content.zobj.net/source/apple/354/snowman_2603-fe0f.png"},
+{"name": "⛄ Snowman Without Snow", "img": "https://em-content.zobj.net/source/apple/354/snowman-without-snow_26c4.png"},
+{"name": "☄️ Comet", "img": "https://em-content.zobj.net/source/apple/354/comet_2604-fe0f.png"},
+{"name": "🔥 Fire", "img": "https://em-content.zobj.net/source/apple/354/fire_1f525.png"},
+{"name": "💧 Droplet", "img": "https://em-content.zobj.net/source/apple/354/droplet_1f4a7.png"},
+{"name": "🌊 Water Wave", "img": "https://em-content.zobj.net/source/apple/354/water-wave_1f30a.png"}
+]
+}
