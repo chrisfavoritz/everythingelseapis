@@ -1,0 +1,23 @@
+{
+"items": [
+{"name": "🦃 Turkey", "img": "https://em-content.zobj.net/source/apple/354/turkey_1f983.png"},
+{"name": "🐓 Rooster", "img": "https://em-content.zobj.net/source/apple/354/rooster_1f413.png"},
+{"name": "🐔 Chicken", "img": "https://em-content.zobj.net/source/apple/354/chicken_1f414.png"},
+{"name": "🐣 Hatching Chick", "img": "https://em-content.zobj.net/source/apple/354/hatching-chick_1f423.png"},
+{"name": "🐤 Baby Chick", "img": "https://em-content.zobj.net/source/apple/354/baby-chick_1f424.png"},
+{"name": "🐥 Front-Facing Baby Chick", "img": "https://em-content.zobj.net/source/apple/354/front-facing-baby-chick_1f425.png"},
+{"name": "🐦 Bird", "img": "https://em-content.zobj.net/source/apple/354/bird_1f426.png"},
+{"name": "🐧 Penguin", "img": "https://em-content.zobj.net/source/apple/354/penguin_1f427.png"},
+{"name": "🕊️ Dove", "img": "https://em-content.zobj.net/source/apple/354/dove_1f54a-fe0f.png"},
+{"name": "🦅 Eagle", "img": "https://em-content.zobj.net/source/apple/354/eagle_1f985.png"},
+{"name": "🦆 Duck", "img": "https://em-content.zobj.net/source/apple/354/duck_1f986.png"},
+{"name": "🦢 Swan", "img": "https://em-content.zobj.net/source/apple/354/swan_1f9a2.png"},
+{"name": "🦉 Owl", "img": "https://em-content.zobj.net/source/apple/354/owl_1f989.png"},
+  {"name": "🦤 Dodo", "img": "https://em-content.zobj.net/source/apple/354/dodo_1f9a4.png"},
+{"name": "🦩 Flamingo", "img": "https://em-content.zobj.net/source/apple/354/flamingo_1f9a9.png"},
+{"name": "🦚 Peacock", "img": "https://em-content.zobj.net/source/apple/354/peacock_1f99a.png"},
+{"name": "🦜 Parrot", "img": "https://em-content.zobj.net/source/apple/354/parrot_1f99c.png"},
+  {"name": "🐦‍⬛ Black Bird", "img": "https://em-content.zobj.net/source/apple/354/black-bird_1f426-200d-2b1b.png"},
+  {"name": "🪿 Goose", "img": "https://em-content.zobj.net/source/apple/354/goose_1fabf.png"}
+]
+}
