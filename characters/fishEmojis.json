@@ -9,6 +9,11 @@
 {"name": "🦈 Shark", "img": "https://em-content.zobj.net/source/apple/354/shark_1f988.png"},
 {"name": "🐙 Octopus", "img": "https://em-content.zobj.net/source/apple/354/octopus_1f419.png"},
 {"name": "🐚 Spiral Shell", "img": "https://em-content.zobj.net/source/apple/354/spiral-shell_1f41a.png"},
-{"name": "🪼 Jellyfish", "img": "https://em-content.zobj.net/source/apple/354/jellyfish_1fabc.png"}
+{"name": "🪼 Jellyfish", "img": "https://em-content.zobj.net/source/apple/354/jellyfish_1fabc.png"},
+  {"name": "🦀 Crab", "img": "https://em-content.zobj.net/source/apple/354/crab_1f980.png"},
+{"name": "🦞 Lobster", "img": "https://em-content.zobj.net/source/apple/354/lobster_1f99e.png"},
+{"name": "🦐 Shrimp", "img": "https://em-content.zobj.net/source/apple/354/shrimp_1f990.png"},
+{"name": "🦑 Squid", "img": "https://em-content.zobj.net/source/apple/354/squid_1f991.png"},
+{"name": "🦪 Oyster", "img": "https://em-content.zobj.net/source/apple/354/oyster_1f9aa.png"}
 ]
 }
