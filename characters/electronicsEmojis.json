@@ -1,0 +1,30 @@
+{
+"items": [
+{"name": "🎮 Video Game", "img": "https://em-content.zobj.net/source/apple/354/video-game_1f3ae.png"},
+ {"name": "🕹️ Joystick", "img": "https://em-content.zobj.net/source/apple/354/joystick_1f579-fe0f.png"},
+  {"name": "📱 Mobile Phone", "img": "https://em-content.zobj.net/source/apple/354/mobile-phone_1f4f1.png"},
+  {"name": "📲 Mobile Phone with Arrow", "img": "https://em-content.zobj.net/source/apple/354/mobile-phone-with-arrow_1f4f2.png"},
+  {"name": "☎️ Telephone", "img": "https://em-content.zobj.net/source/apple/354/telephone_260e-fe0f.png"},
+  {"name": "📞 Telephone Receiver", "img": "https://em-content.zobj.net/source/apple/354/telephone-receiver_1f4de.png"},
+  {"name": "📟 Pager", "img": "https://em-content.zobj.net/source/apple/354/pager_1f4df.png"},
+  {"name": "📠 Fax Machine", "img": "https://em-content.zobj.net/source/apple/354/fax-machine_1f4e0.png"},
+  {"name": "🔋 Battery", "img": "https://em-content.zobj.net/source/apple/354/battery_1f50b.png"},
+    {"name": "🪫 Low Battery", "img": "https://em-content.zobj.net/source/apple/354/low-battery_1faab.png"},
+  {"name": "🔌 Electric Plug", "img": "https://em-content.zobj.net/source/apple/354/electric-plug_1f50c.png"},
+  {"name": "💻 Laptop", "img": "https://em-content.zobj.net/source/apple/354/laptop_1f4bb.png"},
+  {"name": "🖥️ Desktop Computer", "img": "https://em-content.zobj.net/source/apple/354/desktop-computer_1f5a5-fe0f.png"},
+  {"name": "🖨️ Printer", "img": "https://em-content.zobj.net/source/apple/354/printer_1f5a8-fe0f.png"},
+  {"name": "⌨️ Keyboard", "img": "https://em-content.zobj.net/source/apple/354/keyboard_2328-fe0f.png"},
+  {"name": "🖱️ Computer Mouse", "img": "https://em-content.zobj.net/source/apple/354/computer-mouse_1f5b1-fe0f.png"},
+  {"name": "🖲️ Trackball", "img": "https://em-content.zobj.net/source/apple/354/trackball_1f5b2-fe0f.png"},
+  {"name": "🎥 Movie Camera", "img": "https://em-content.zobj.net/source/apple/354/movie-camera_1f3a5.png"},
+ {"name": "📽️ Film Projector", "img": "https://em-content.zobj.net/source/apple/354/film-projector_1f4fd-fe0f.png"},
+  {"name": "📺 Television", "img": "https://em-content.zobj.net/source/apple/354/television_1f4fa.png"},
+    {"name": "📷 Camera", "img": "https://em-content.zobj.net/source/apple/354/camera_1f4f7.png"},
+  {"name": "📸 Camera with Flash", "img": "https://em-content.zobj.net/source/apple/354/camera-with-flash_1f4f8.png"},
+  {"name": "📹 Video Camera", "img": "https://em-content.zobj.net/source/apple/354/video-camera_1f4f9.png"},
+  {"name": "📼 Videocassette", "img": "https://em-content.zobj.net/source/apple/354/videocassette_1f4fc.png"},
+{"name": "💡 Light Bulb", "img": "https://em-content.zobj.net/source/apple/354/light-bulb_1f4a1.png"},
+  {"name": "🔦 Flashlight", "img": "https://em-content.zobj.net/source/apple/354/flashlight_1f526.png"}
+]
+}
