@@ -1,0 +1,11 @@
+{
+"items": [
+{"name": "🐸 Frog", "img": "https://em-content.zobj.net/source/apple/354/frog_1f438.png"},
+{"name": "🐊 Crocodile", "img": "https://em-content.zobj.net/source/apple/354/crocodile_1f40a.png"},
+{"name": "🐢 Turtle", "img": "https://em-content.zobj.net/source/apple/354/turtle_1f422.png"},
+{"name": "🦎 Lizard", "img": "https://em-content.zobj.net/source/apple/354/lizard_1f98e.png"},
+{"name": "🐍 Snake", "img": "https://em-content.zobj.net/source/apple/354/snake_1f40d.png"},
+{"name": "🦕 Sauropod", "img": "https://em-content.zobj.net/source/apple/354/sauropod_1f995.png"},
+{"name": "🦖 T-Rex", "img": "https://em-content.zobj.net/source/apple/354/t-rex_1f996.png"}
+]
+}
