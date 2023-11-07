@@ -1,0 +1,24 @@
+{
+"items": [
+{"name": "🍇 Grapes", "img": "https://em-content.zobj.net/source/apple/354/grapes_1f347.png"},
+{"name": "🍈 Melon", "img": "https://em-content.zobj.net/source/apple/354/melon_1f348.png"},
+{"name": "🍉 Watermelon", "img": "https://em-content.zobj.net/source/apple/354/watermelon_1f349.png"},
+{"name": "🍊 Tangerine", "img": "https://em-content.zobj.net/source/apple/354/tangerine_1f34a.png"},
+{"name": "🍋 Lemon", "img": "https://em-content.zobj.net/source/apple/354/lemon_1f34b.png"},
+{"name": "🍌 Banana", "img": "https://em-content.zobj.net/source/apple/354/banana_1f34c.png"},
+{"name": "🍍 Pineapple", "img": "https://em-content.zobj.net/source/apple/354/pineapple_1f34d.png"},
+{"name": "🥭 Mango", "img": "https://em-content.zobj.net/source/apple/354/mango_1f96d.png"},
+{"name": "🍎 Red Apple", "img": "https://em-content.zobj.net/source/apple/354/red-apple_1f34e.png"},
+{"name": "🍏 Green Apple", "img": "https://em-content.zobj.net/source/apple/354/green-apple_1f34f.png"},
+{"name": "🍐 Pear", "img": "https://em-content.zobj.net/source/apple/354/pear_1f350.png"},
+{"name": "🍑 Peach", "img": "https://em-content.zobj.net/source/apple/354/peach_1f351.png"},
+{"name": "🍒 Cherries", "img": "https://em-content.zobj.net/source/apple/354/cherries_1f352.png"},
+{"name": "🍓 Strawberry", "img": "https://em-content.zobj.net/source/apple/354/strawberry_1f353.png"},
+{"name": "🫐 Blueberries", "img": "https://em-content.zobj.net/source/apple/354/blueberries_1fad0.png"},
+{"name": "🥝 Kiwi Fruit", "img": "https://em-content.zobj.net/source/apple/354/kiwi-fruit_1f95d.png"},
+{"name": "🍅 Tomato", "img": "https://em-content.zobj.net/source/apple/354/tomato_1f345.png"},
+    {"name": "🫒 Olive", "img": "https://em-content.zobj.net/source/apple/354/olive_1fad2.png"},
+  {"name": "🥥 Coconut", "img": "https://em-content.zobj.net/source/apple/354/coconut_1f965.png"},
+    {"name": "🥑 Avocado", "img": "https://em-content.zobj.net/source/apple/354/avocado_1f951.png"}
+]
+}
