@@ -1,0 +1,30 @@
+{
+"items": [
+  {"name": "🛐 Place of Worship", "img": "https://em-content.zobj.net/source/apple/354/place-of-worship_1f6d0.png"},
+  {"name": "⚛️ Atom Symbol", "img": "https://em-content.zobj.net/source/apple/354/atom-symbol_269b-fe0f.png"},
+  {"name": "🕉️ Om", "img": "https://em-content.zobj.net/source/apple/354/om_1f549-fe0f.png"},
+  {"name": "✡️ Star of David", "img": "https://em-content.zobj.net/source/apple/354/star-of-david_2721-fe0f.png"},
+  {"name": "☸️ Wheel of Dharma", "img": "https://em-content.zobj.net/source/apple/354/wheel-of-dharma_2638-fe0f.png"},
+  {"name": "☯️ Yin Yang", "img": "https://em-content.zobj.net/source/apple/354/yin-yang_262f-fe0f.png"},
+    {"name": "✝️ Latin Cross", "img": "https://em-content.zobj.net/source/apple/354/latin-cross_271d-fe0f.png"},
+  {"name": "☦️ Orthodox Cross", "img": "https://em-content.zobj.net/source/apple/354/orthodox-cross_2626-fe0f.png"},
+  {"name": "☪️ Star and Crescent", "img": "https://em-content.zobj.net/source/apple/354/star-and-crescent_262a-fe0f.png"},
+  {"name": "☮️ Peace Symbol", "img": "https://em-content.zobj.net/source/apple/354/peace-symbol_262e-fe0f.png"},
+  {"name": "🕎 Menorah", "img": "https://em-content.zobj.net/source/apple/354/menorah_1f54e.png"},
+  {"name": "🔯 Dotted Six-Pointed Star", "img": "https://em-content.zobj.net/source/apple/354/dotted-six-pointed-star_1f52f.png"},
+  {"name": "🪯 Khanda", "img": "https://em-content.zobj.net/source/apple/354/khanda_1faaf.png"},
+  {"name": "♈ Aries", "img": "https://em-content.zobj.net/source/apple/354/aries_2648.png"},
+    {"name": "♉ Taurus", "img": "https://em-content.zobj.net/source/apple/354/taurus_2649.png"},
+  {"name": "♊ Gemini", "img": "https://em-content.zobj.net/source/apple/354/gemini_264a.png"},
+  {"name": "♋ Cancer", "img": "https://em-content.zobj.net/source/apple/354/cancer_264b.png"},
+  {"name": "♌ Leo", "img": "https://em-content.zobj.net/source/apple/354/leo_264c.png"},
+  {"name": "♍ Virgo", "img": "https://em-content.zobj.net/source/apple/354/virgo_264d.png"},
+  {"name": "♎ Libra", "img": "https://em-content.zobj.net/source/apple/354/libra_264e.png"},
+    {"name": "♏ Scorpio", "img": "https://em-content.zobj.net/source/apple/354/scorpio_264f.png"},
+  {"name": "♐ Sagittarius", "img": "https://em-content.zobj.net/source/apple/354/sagittarius_2650.png"},
+  {"name": "♑ Capricorn", "img": "https://em-content.zobj.net/source/apple/354/capricorn_2651.png"},
+    {"name": "♒ Aquarius", "img": "https://em-content.zobj.net/source/apple/354/aquarius_2652.png"},
+  {"name": "♓ Pisces", "img": "https://em-content.zobj.net/source/apple/354/pisces_2653.png"},
+  {"name": "⛎ Ophiuchus", "img": "https://em-content.zobj.net/source/apple/354/ophiuchus_26ce.png"}
+]
+}
