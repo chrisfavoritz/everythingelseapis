@@ -1,6 +1,6 @@
 {
   "items": [
-    {"name": "Red", "img": "Placeholder"},
+    {"name": "Red", "img": "https://static.wikia.nocookie.net/aesthetics/images/5/5a/Red.jpg/revision/latest/scale-to-width-down/1000?cb=20200727230321"},
     {"name": "Blue", "img": "Placeholder"},
     {"name": "Yellow", "img": "Placeholder"},
     {"name": "Green", "img": "Placeholder"},
@@ -29,6 +29,6 @@
     {"name": "Magenta", "img": "Placeholder"},
     {"name": "Olive", "img": "Placeholder"},
     {"name": "Indigo", "img": "Placeholder"},
-    {"name": "Cyan", "img": "Placeholder"}
+    {"name": "Cyan", "img": "https://static.wikia.nocookie.net/aesthetics/images/7/76/Cyan.jpg/revision/latest/scale-to-width-down/350?cb=20221004021353"}
   ]
 }
