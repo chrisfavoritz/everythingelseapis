@@ -1,0 +1,15 @@
+{
+"items": [
+{"name": "Early Morning", "img": "https://images.unsplash.com/photo-1603959126716-c8fd3f84ca33?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},
+{"name": "Morning", "img": "https://images.unsplash.com/photo-1526385159909-196a9ac0ef64?q=80&w=1352&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},
+{"name": "Midday", "img": "https://images.unsplash.com/photo-1545529630-4546c1f0c890?q=80&w=1286&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"},
+{"name": "Afternoon", "img": "https://cdn-icons-png.flaticon.com/128/1582/1582749.png"},
+{"name": "Evening", "img": "https://cdn-icons-png.flaticon.com/128/12276/12276867.png"},
+{"name": "Dusk", "img": "https://cdn-icons-png.flaticon.com/128/1146/1146825.png"},
+{"name": "Night", "img": "placeholder"},
+{"name": "Early Night", "img": "placeholder"},
+{"name": "Late Night", "img": "placeholder"},
+{"name": "Midnight", "img": "placeholder"},
+{"name": "Dawn", "img": "placeholder"}
+]
+}
