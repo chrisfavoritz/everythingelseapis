@@ -1,11 +1,11 @@
 {
 "items": [
-{"name": "Monday", "img": "placeholder"},
-{"name": "Tuesday", "img": "placeholder"},
-{"name": "Wednesday", "img": "placeholder"},
-{"name": "Thursday", "img": "placeholder"},
-{"name": "Friday", "img": "placeholder"},
-{"name": "Saturday", "img": "placeholder"},
-{"name": "Sunday", "img": "placeholder"}
+{"name": "Monday", "img": "https://cdn-icons-png.flaticon.com/512/42/42524.png"},
+{"name": "Tuesday", "img": "https://cdn-icons-png.flaticon.com/512/42/42305.png"},
+{"name": "Wednesday", "img": "https://cdn-icons-png.flaticon.com/512/42/42514.png"},
+{"name": "Thursday", "img": "https://cdn-icons-png.flaticon.com/512/42/42464.png"},
+{"name": "Friday", "img": "https://cdn-icons-png.flaticon.com/512/42/42352.png"},
+{"name": "Saturday", "img": "https://cdn-icons-png.flaticon.com/512/42/42359.png"},
+{"name": "Sunday", "img": "https://cdn-icons-png.flaticon.com/512/42/42347.png"}
 ]
 }
