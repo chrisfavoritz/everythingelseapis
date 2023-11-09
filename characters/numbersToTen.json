@@ -1,0 +1,15 @@
+{
+"items": [
+{"name": "0️⃣ Zero", "img": "https://em-content.zobj.net/source/apple/354/keycap-digit-zero_30-fe0f-20e3.png"},
+  {"name": "1️⃣ One", "img": "https://em-content.zobj.net/source/apple/354/keycap-digit-one_31-fe0f-20e3.png"},
+  {"name": "2️⃣ Two", "img": "https://em-content.zobj.net/source/apple/354/keycap-digit-two_32-fe0f-20e3.png"},
+  {"name": "3️⃣ Three", "img": "https://em-content.zobj.net/source/apple/354/keycap-digit-three_33-fe0f-20e3.png"},
+  {"name": "4️⃣ Four", "img": "https://em-content.zobj.net/source/apple/354/keycap-digit-four_34-fe0f-20e3.png"},
+  {"name": "5️⃣ Five", "img": "https://em-content.zobj.net/source/apple/354/keycap-digit-five_35-fe0f-20e3.png"},
+  {"name": "6️⃣ Six", "img": "https://em-content.zobj.net/source/apple/354/keycap-digit-six_36-fe0f-20e3.png"},
+    {"name": "7️⃣ Seven", "img": "https://em-content.zobj.net/source/apple/354/keycap-digit-seven_37-fe0f-20e3.png"},
+  {"name": "8️⃣ Eight", "img": "https://em-content.zobj.net/source/apple/354/keycap-digit-eight_38-fe0f-20e3.png"},
+  {"name": "9️⃣ Nine", "img": "https://em-content.zobj.net/source/apple/354/keycap-digit-nine_39-fe0f-20e3.png"},
+  {"name": "🔟 Ten", "img": "https://em-content.zobj.net/source/apple/354/keycap-10_1f51f.png"}
+]
+}
