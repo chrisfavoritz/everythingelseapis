@@ -1,0 +1,12 @@
+{
+  "items": [
+    {"name": "Red", "img": "https://www.colorcombos.com/images/colors/hex/FF0000.png"},
+    {"name": "Blue", "img": "https://www.colorcombos.com/images/colors/hex/0000FF.png"},
+    {"name": "Yellow", "img": "https://www.colorcombos.com/images/colors/hex/FFCC00.png"},
+    {"name": "Green", "img": "https://www.colorcombos.com/images/colors/hex/55D43F.png"},
+    {"name": "Purple", "img": "https://www.colorcombos.com/images/colors/hex/660099.png"},
+    {"name": "Orange", "img": "https://www.colorcombos.com/images/colors/hex/FF8000.png"},
+    {"name": "Violet", "img": "https://www.colorcombos.com/images/colors/hex/800080.png"},
+    {"name": "Indigo", "img": "https://www.colorcombos.com/images/colors/hex/333399.png"}
+  ]
+}
