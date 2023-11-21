@@ -1,34 +1,14 @@
 {
 "items": [
 {"name": "🙍 Person Frowning", "img": "https://em-content.zobj.net/source/apple/354/person-frowning_1f64d.png"},
-{"name": "🙍‍♂️ Man Frowning", "img": "https://em-content.zobj.net/source/apple/354/man-frowning_1f64d-200d-2642-fe0f.png"},
-{"name": "🙍‍♀️ Woman Frowning", "img": "https://em-content.zobj.net/source/apple/354/woman-frowning_1f64d-200d-2640-fe0f.png"},
 {"name": "🙎 Person Pouting", "img": "https://em-content.zobj.net/source/apple/354/person-pouting_1f64e.png"},
-{"name": "🙎‍♂️ Man Pouting", "img": "https://em-content.zobj.net/source/apple/354/man-pouting_1f64e-200d-2642-fe0f.png"},
-{"name": "🙎‍♀️ Woman Pouting", "img": "https://em-content.zobj.net/source/apple/354/woman-pouting_1f64e-200d-2640-fe0f.png"},
 {"name": "🙅 Person Gesturing No", "img": "https://em-content.zobj.net/source/apple/354/person-gesturing-no_1f645.png"},
-{"name": "🙅‍♂️ Man Gesturing No", "img": "https://em-content.zobj.net/source/apple/354/man-gesturing-no_1f645-200d-2642-fe0f.png"},
-{"name": "🙅‍♀️ Woman Gesturing No", "img": "https://em-content.zobj.net/source/apple/354/woman-gesturing-no_1f645-200d-2640-fe0f.png"},
 {"name": "🙆 Person Gesturing OK", "img": "https://em-content.zobj.net/source/apple/354/person-gesturing-ok_1f646.png"},
-{"name": "🙆‍♂️ Man Gesturing OK", "img": "https://em-content.zobj.net/source/apple/354/man-gesturing-ok_1f646-200d-2642-fe0f.png"},
-{"name": "🙆‍♀️ Woman Gesturing OK", "img": "https://em-content.zobj.net/source/apple/354/woman-gesturing-ok_1f646-200d-2640-fe0f.png"},
 {"name": "💁 Person Tipping Hand", "img": "https://em-content.zobj.net/source/apple/354/person-tipping-hand_1f481.png"},
-{"name": "💁‍♂️ Man Tipping Hand", "img": "https://em-content.zobj.net/source/apple/354/man-tipping-hand_1f481-200d-2642-fe0f.png"},
-{"name": "💁‍♀️ Woman Tipping Hand", "img": "https://em-content.zobj.net/source/apple/354/woman-tipping-hand_1f481-200d-2640-fe0f.png"},
 {"name": "🙋 Person Raising Hand", "img": "https://em-content.zobj.net/source/apple/354/person-raising-hand_1f64b.png"},
-{"name": "🙋‍♂️ Man Raising Hand", "img": "https://em-content.zobj.net/source/apple/354/man-raising-hand_1f64b-200d-2642-fe0f.png"},
-{"name": "🙋‍♀️ Woman Raising Hand", "img": "https://em-content.zobj.net/source/apple/354/woman-raising-hand_1f64b-200d-2640-fe0f.png"},
 {"name": "🧏 Deaf Person", "img": "https://em-content.zobj.net/source/apple/354/deaf-person_1f9cf.png"},
-{"name": "🧏‍♂️ Deaf Man", "img": "https://em-content.zobj.net/source/apple/354/deaf-man_1f9cf-200d-2642-fe0f.png"},
-{"name": "🧏‍♀️ Deaf Woman", "img": "https://em-content.zobj.net/source/apple/354/deaf-woman_1f9cf-200d-2640-fe0f.png"},
 {"name": "🙇 Person Bowing", "img": "https://em-content.zobj.net/source/apple/354/person-bowing_1f647.png"},
-{"name": "🙇‍♂️ Man Bowing", "img": "https://em-content.zobj.net/source/apple/354/man-bowing_1f647-200d-2642-fe0f.png"},
-{"name": "🙇‍♀️ Woman Bowing", "img": "https://em-content.zobj.net/source/apple/354/woman-bowing_1f647-200d-2640-fe0f.png"},
 {"name": "🤦 Person Facepalming", "img": "https://em-content.zobj.net/source/apple/354/person-facepalming_1f926.png"},
-{"name": "🤦‍♂️ Man Facepalming", "img": "https://em-content.zobj.net/source/apple/354/man-facepalming_1f926-200d-2642-fe0f.png"},
-{"name": "🤦‍♀️ Woman Facepalming", "img": "https://em-content.zobj.net/source/apple/354/woman-facepalming_1f926-200d-2640-fe0f.png"},
-{"name": "🤷 Person Shrugging", "img": "https://em-content.zobj.net/source/apple/354/person-shrugging_1f937.png"},
-{"name": "🤷‍♂️ Man Shrugging", "img": "https://em-content.zobj.net/source/apple/354/man-shrugging_1f937-200d-2642-fe0f.png"},
-{"name": "🤷‍♀️ Woman Shrugging", "img": "https://em-content.zobj.net/source/apple/354/woman-shrugging_1f937-200d-2640-fe0f.png"}
+{"name": "🤷 Person Shrugging", "img": "https://em-content.zobj.net/source/apple/354/person-shrugging_1f937.png"}
 ]
 }
