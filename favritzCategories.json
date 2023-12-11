@@ -1,0 +1,12 @@
+{
+  "items": [
+    {"name": "TV Shows", "img": "https://firebasestorage.googleapis.com/v0/b/favritz-3d372.appspot.com/o/categoryImages%2Ftvshowscategory.png?alt=media&token=c5a27dd0-105a-487c-81fa-55e58fa93d92"},
+    {"name": "Music", "img": "https://firebasestorage.googleapis.com/v0/b/favritz-3d372.appspot.com/o/categoryImages%2Fmusiccategory.png?alt=media&token=fdecb7f0-b768-46ac-8a91-e50e17bd4701"},
+    {"name": "Video Games", "img": "https://firebasestorage.googleapis.com/v0/b/favritz-3d372.appspot.com/o/categoryImages%2Fvideogamescategory.png?alt=media&token=3d02e026-a890-488a-8f2f-beafd2d70ddd"},
+    {"name": "Movies", "img": "https://firebasestorage.googleapis.com/v0/b/favritz-3d372.appspot.com/o/categoryImages%2Fmoviescategory.png?alt=media&token=d073db79-7522-4de4-b834-e5615cb81c26"},
+    {"name": "Sports", "img": "https://firebasestorage.googleapis.com/v0/b/favritz-3d372.appspot.com/o/categoryImages%2Fsportscategory.png?alt=media&token=bb99576a-3063-4623-b089-6acd842d37f6"},
+    {"name": "Shopping", "img": "https://firebasestorage.googleapis.com/v0/b/favritz-3d372.appspot.com/o/categoryImages%2Fshoppingcategory.png?alt=media&token=84c865ae-2b3c-420b-9a27-30ec30573b3f"},
+    {"name": "Learning", "img": "https://firebasestorage.googleapis.com/v0/b/favritz-3d372.appspot.com/o/categoryImages%2Flearningcategory.png?alt=media&token=7008245f-ada2-4825-a8ee-cb6385520a68"},
+    {"name": "Life", "img": "https://firebasestorage.googleapis.com/v0/b/favritz-3d372.appspot.com/o/categoryImages%2Flivingcategory.png?alt=media&token=ba793685-345f-414c-a8be-f05dd4bb5d53"}
+  ]
+}
