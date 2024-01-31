@@ -7,6 +7,6 @@
     {"name": "Sports", "img": "https://firebasestorage.googleapis.com/v0/b/favritz-3d372.appspot.com/o/categoryImages%2Fsportscategory.png?alt=media&token=bb99576a-3063-4623-b089-6acd842d37f6"},
     {"name": "Shopping", "img": "https://firebasestorage.googleapis.com/v0/b/favritz-3d372.appspot.com/o/categoryImages%2Fshoppingcategory.png?alt=media&token=84c865ae-2b3c-420b-9a27-30ec30573b3f"},
     {"name": "Learning", "img": "https://firebasestorage.googleapis.com/v0/b/favritz-3d372.appspot.com/o/categoryImages%2Flearningcategory.png?alt=media&token=7008245f-ada2-4825-a8ee-cb6385520a68"},
-    {"name": "Life", "img": "https://firebasestorage.googleapis.com/v0/b/favritz-3d372.appspot.com/o/categoryImages%2Flivingcategory.png?alt=media&token=ba793685-345f-414c-a8be-f05dd4bb5d53"}
+    {"name": "Living", "img": "https://firebasestorage.googleapis.com/v0/b/favritz-3d372.appspot.com/o/categoryImages%2Flivingcategory.png?alt=media&token=ba793685-345f-414c-a8be-f05dd4bb5d53"}
   ]
 }
