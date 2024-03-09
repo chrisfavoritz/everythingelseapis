@@ -1,0 +1,33 @@
+{
+  "items": [
+    {"name": "All-Time Music Artists", "img": "https://em-content.zobj.net/source/apple/354/microphone_1f3a4.png"},
+    {"name": "Beyoncé", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Beyonce_Album_Logo.svg/320px-Beyonce_Album_Logo.svg.png"},
+    {"name": "Bruce Springsteen", "img": "https://seeklogo.com/images/B/bruce-springsteen-logo-286C7A5EAC-seeklogo.com.png"},
+    {"name": "Chance the Rapper", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Chance_the_Rapper_-_Coloring_Book.png"},
+    {"name": "Coldplay", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Coldplay_MX_logo.png/320px-Coldplay_MX_logo.png"},
+    {"name": "Drake", "img": "https://1000logos.net/wp-content/uploads/2017/08/OVO-Logo-500x391.png"},
+    {"name": "Eminem", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eminem_logo.svg/320px-Eminem_logo.svg.png"},
+    {"name": "Fleetwood Mac", "img": "https://ww2.freelogovectors.net/wp-content/uploads/2023/05/fleetwood-mac-logo-freelogovectors.net_-640x400.png?lossy=1&ssl=1&fit=640%2C400"},
+    {"name": "Frank Ocean", "img": "https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg"},
+    {"name": "Grammy Award Winners", "img": "https://naras.a.bigcontent.io/v1/static/grammy.com_images-04.png"},
+    {"name": "Harry Styles", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Harry_styles_album_logo.png/800px-Harry_styles_album_logo.png"},
+    {"name": "J. Cole", "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Dreamville-Records.jpg"},
+    {"name": "Jay-Z", "img": "https://logonoid.com/images/jay-z-logo.png"},
+    {"name": "Justin Bieber", "img": "https://1000logos.net/wp-content/uploads/2021/12/Justin-Bieber-logo-500x281.png"},
+    {"name": "Kendrick Lamar", "img": "https://upload.wikimedia.org/wikipedia/fr/0/0c/Kendrick_Lamar.png"},
+    {"name": "Lady Gaga", "img": "https://1000logos.net/wp-content/uploads/2021/04/Lady-Gaga-logo-500x279.png"},
+    {"name": "Led Zeppelin", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Led_Zeppelin_logo.svg/320px-Led_Zeppelin_logo.svg.png"},
+    {"name": "Maroon 5", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Maroon5-logo.svg/216px-Maroon5-logo.svg.png"},
+    {"name": "Types of Music", "img": "https://em-content.zobj.net/source/apple/354/musical-note_1f3b5.png"},
+    {"name": "Noah Kahan", "img": "https://noahkahan.com/files/2022/09/logo-noah.png"},
+    {"name": "Olivia Rodrigo", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Olivia_Rodrigo_OR_Logo.svg/308px-Olivia_Rodrigo_OR_Logo.svg.png"},
+    {"name": "Queen", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Queen_logo.svg/320px-Queen_logo.svg.png"},
+    {"name": "Rihanna", "img": "https://1000logos.net/wp-content/uploads/2020/10/Rihanna-Logo-500x313.png"},
+    {"name": "Taylor Swift", "img": "https://1000logos.net/wp-content/uploads/2020/10/Taylor-Swift-Logo-500x282.png"},
+    {"name": "The Beatles", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Beatles_logo.svg/320px-Beatles_logo.svg.png"},
+    {"name": "The Eagles", "img": "https://seeklogo.com/images/E/Eagles_Band-logo-D48EF8187F-seeklogo.com.png"},
+    {"name": "The Rolling Stones", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/The_Rolling_Stones%27_logo.svg/100px-The_Rolling_Stones%27_logo.svg.png"},
+    {"name": "The Weeknd", "img": "https://www.theweeknd.com/files/2022/11/tw-sitelogo.png"},
+    {"name": "Top Streaming Music", "img": "https://em-content.zobj.net/source/apple/354/musical-notes_1f3b6.png"}
+  ]
+}
