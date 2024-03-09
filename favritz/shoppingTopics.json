@@ -1,0 +1,14 @@
+{
+  "items": [
+    {"name": "Beauty Products", "img": "https://em-content.zobj.net/source/apple/354/nail-polish_1f485.png"},
+    {"name": "Electronics", "img": "https://em-content.zobj.net/source/apple/354/electric-plug_1f50c.png"},
+    {"name": "Fashion", "img": "https://em-content.zobj.net/source/apple/354/scarf_1f9e3.png"},
+    {"name": "Food & Groceries", "img": "https://em-content.zobj.net/source/apple/354/pineapple_1f34d.png"},
+    {"name": "Household Products", "img": "https://em-content.zobj.net/source/apple/354/house_1f3e0.png"},
+    {"name": "Personal Care Products", "img": "https://em-content.zobj.net/source/apple/354/soap_1f9fc.png"},
+    {"name": "Retailers", "img": "https://em-content.zobj.net/source/apple/354/department-store_1f3ec.png"},
+    {"name": "Toys", "img": "https://em-content.zobj.net/source/apple/354/teddy-bear_1f9f8.png"},
+    {"name": "Travel Services", "img": "https://em-content.zobj.net/source/apple/354/seat_1f4ba.png"},
+    {"name": "Vehicles", "img": "https://em-content.zobj.net/source/apple/354/sport-utility-vehicle_1f699.png"}
+  ]
+}
