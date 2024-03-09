@@ -1,0 +1,28 @@
+{
+  "items": [
+    {"name": "Among Us", "img": "https://1000logos.net/wp-content/uploads/2021/09/Among-Us-Logo.png"},
+    {"name": "Angry Birds", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Angry_Birds_logos.svg/2560px-Angry_Birds_logos.svg.png"},
+    {"name": "Animal Crossing", "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Animal_Crossing_Logo.png"},
+    {"name": "Assassin's Creed", "img": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Assassin%27s_Creed_Logo.svg/1200px-Assassin%27s_Creed_Logo.svg.png"},
+    {"name": "Award-Winning Games", "img": "https://em-content.zobj.net/source/apple/354/trophy_1f3c6.png"},
+    {"name": "Call of Duty", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Call_of_Duty_logo.svg/2560px-Call_of_Duty_logo.svg.png"},
+    {"name": "Fall Guys", "img": "https://seeklogo.com/images/F/fall-guys-logo-0809CCA0D8-seeklogo.com.png"},
+    {"name": "Final Fantasy", "img": "https://assets.stickpng.com/images/628a8bb8e0bc05a7de76fe1e.png"},
+    {"name": "Fortnite", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/FortniteLogo.svg/1976px-FortniteLogo.svg.png"},
+    {"name": "Grand Theft Auto", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Grand_Theft_Auto_logo_series.svg/1275px-Grand_Theft_Auto_logo_series.svg.png"},
+    {"name": "Halo", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Halo_%28series%29_logo.svg/2560px-Halo_%28series%29_logo.svg.png"},
+    {"name": "League of Legends", "img": "https://www.leagueoflegends.com/static/logo-1200-04b3cefafba917c9c571f9244fd28a1e.png"},
+    {"name": "Mario Kart", "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mario_Kart_logo.png"},
+    {"name": "Minecraft", "img": "https://res.cloudinary.com/zenbusiness/image/upload/v1670445040/logaster/logaster-2020-06-image14-3.png"},
+    {"name": "Mortal Kombat", "img": "https://static.wikia.nocookie.net/mkwikia/images/8/81/MK_2011_2ndlogo.png/revision/latest?cb=20100825154942"},
+    {"name": "Pokémon", "img": "https://assets.stickpng.com/thumbs/612ce4761b9679000402af1c.png"},
+    {"name": "Red Dead Redemption", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Red-Dead-Redemption-Logo.svg/2560px-Red-Dead-Redemption-Logo.svg.png"},
+    {"name": "Resident Evil", "img": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Resident_Evil_logo.png"},
+    {"name": "Super Mario", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mario_Series_Logo.svg/2560px-Mario_Series_Logo.svg.png"},
+    {"name": "Super Smash Bros", "img": "https://1000logos.net/wp-content/uploads/2020/12/Super-Smash-Bros-Logo.png"},
+    {"name": "The Elder Scrolls", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/The_Elder_Scrolls_Logo.svg/1280px-The_Elder_Scrolls_Logo.svg.png"},
+    {"name": "The Legend of Zelda", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zelda_Logo.svg/1024px-Zelda_Logo.svg.png"},
+    {"name": "Valorant", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png"},
+    {"name": "World of Warcraft", "img": "https://1000logos.net/wp-content/uploads/2021/09/World-of-Warcraft-Logo-2004.png"}
+  ]
+}
