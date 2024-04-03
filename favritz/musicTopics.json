@@ -1,6 +1,7 @@
 {
   "items": [
     {"name": "All-Time Music Artists", "img": "https://em-content.zobj.net/source/apple/354/microphone_1f3a4.png"},
+    {"name": "Ariana Grande", "img": "https://1000logos.net/wp-content/uploads/2021/12/Ariana-Grande-logo-500x281.png"},
     {"name": "Beyoncé", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Beyonce_Album_Logo.svg/320px-Beyonce_Album_Logo.svg.png"},
     {"name": "Bruce Springsteen", "img": "https://seeklogo.com/images/B/bruce-springsteen-logo-286C7A5EAC-seeklogo.com.png"},
     {"name": "Chance the Rapper", "img": "https://upload.wikimedia.org/wikipedia/en/c/c4/Chance_the_Rapper_-_Coloring_Book.png"},
@@ -14,12 +15,14 @@
     {"name": "J. Cole", "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Dreamville-Records.jpg"},
     {"name": "Jay-Z", "img": "https://logonoid.com/images/jay-z-logo.png"},
     {"name": "Justin Bieber", "img": "https://1000logos.net/wp-content/uploads/2021/12/Justin-Bieber-logo-500x281.png"},
+    {"name": "Kacey Musgraves", "img": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Kacey_Musgraves_Logo_%282021%29.png"},
     {"name": "Kendrick Lamar", "img": "https://upload.wikimedia.org/wikipedia/fr/0/0c/Kendrick_Lamar.png"},
     {"name": "Lady Gaga", "img": "https://1000logos.net/wp-content/uploads/2021/04/Lady-Gaga-logo-500x279.png"},
     {"name": "Led Zeppelin", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Led_Zeppelin_logo.svg/320px-Led_Zeppelin_logo.svg.png"},
     {"name": "Maroon 5", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Maroon5-logo.svg/216px-Maroon5-logo.svg.png"},
     {"name": "Types of Music", "img": "https://em-content.zobj.net/source/apple/354/musical-note_1f3b5.png"},
     {"name": "Noah Kahan", "img": "https://noahkahan.com/files/2022/09/logo-noah.png"},
+    {"name": "One Direction", "img": "https://1000logos.net/wp-content/uploads/2018/01/One-Direction-logo-500x188.png"},
     {"name": "Olivia Rodrigo", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Olivia_Rodrigo_OR_Logo.svg/308px-Olivia_Rodrigo_OR_Logo.svg.png"},
     {"name": "Queen", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Queen_logo.svg/320px-Queen_logo.svg.png"},
     {"name": "Rihanna", "img": "https://1000logos.net/wp-content/uploads/2020/10/Rihanna-Logo-500x313.png"},
