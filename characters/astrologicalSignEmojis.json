@@ -1,0 +1,17 @@
+{
+"items": [
+  {"name": "♈ Aries", "img": "https://em-content.zobj.net/source/apple/354/aries_2648.png"},
+    {"name": "♉ Taurus", "img": "https://em-content.zobj.net/source/apple/354/taurus_2649.png"},
+  {"name": "♊ Gemini", "img": "https://em-content.zobj.net/source/apple/354/gemini_264a.png"},
+  {"name": "♋ Cancer", "img": "https://em-content.zobj.net/source/apple/354/cancer_264b.png"},
+  {"name": "♌ Leo", "img": "https://em-content.zobj.net/source/apple/354/leo_264c.png"},
+  {"name": "♍ Virgo", "img": "https://em-content.zobj.net/source/apple/354/virgo_264d.png"},
+  {"name": "♎ Libra", "img": "https://em-content.zobj.net/source/apple/354/libra_264e.png"},
+    {"name": "♏ Scorpio", "img": "https://em-content.zobj.net/source/apple/354/scorpio_264f.png"},
+  {"name": "♐ Sagittarius", "img": "https://em-content.zobj.net/source/apple/354/sagittarius_2650.png"},
+  {"name": "♑ Capricorn", "img": "https://em-content.zobj.net/source/apple/354/capricorn_2651.png"},
+    {"name": "♒ Aquarius", "img": "https://em-content.zobj.net/source/apple/354/aquarius_2652.png"},
+  {"name": "♓ Pisces", "img": "https://em-content.zobj.net/source/apple/354/pisces_2653.png"},
+  {"name": "⛎ Ophiuchus", "img": "https://em-content.zobj.net/source/apple/354/ophiuchus_26ce.png"}
+]
+}
